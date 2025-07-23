@@ -196,15 +196,26 @@ body {
 }
 
 .developerLLetter {
+  text-transform: uppercase;
+  color: blue;
+  font-size: 80px;
 }
 .developerOLetter {
   font-weight: normal;
 }
 .developerPLetter {
+  text-decoration: line-through dashed;
+  
 }
+
 .developerEThreeLetter {
+  font-family: cursive;
+  font-size: 80px;
+  color: goldenrod;
+  text-transform: uppercase;
 }
 .developerRLetter {
+  color: goldenrod;
 }
 
 /* TAKE word */
@@ -241,126 +252,230 @@ body {
 /* GARDENING word */
 
 .gardeningGLetter {
+  font-family: cursive;
+  font-size: 80px;
+  color: goldenrod;
 }
 .gardeningALetter {
+  color: darkred;
+  text-decoration: line-through dashed;
+  text-decoration-color: crimson;
 }
 .gardeningRLetter {
+  font-size: 50px;
 }
 .gardeningDLetter {
+  font-size: 85px;
+  color: crimson;
 }
 .gardeningELetter {
+  font-size: 71px;
+  text-decoration: double overline;
+  text-decoration-color: chartreuse;
+  
 }
 .gardeningNLetter {
+  color: rgb(66, 65, 62);
+  font-family: fantasy;
+
 }
 .gardeningILetter {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-transform: capitalize;
+  font-size: 42px;
 }
 .gardeningNTwoLetter {
+  font-size: 80px;
+  color: blue;
 }
 .gardeningGTwoLetter {
+  color: rgb(141, 12, 89);
+  font-weight: bold;
+  text-transform: capitalize;
 }
 
 /* BECAUSE word */
 
 .becauseBLetter {
+  text-decoration: line-through dashed;
+  color: black;
+  font-size: 41px;
+
 }
 .becauseELetter {
+  font-size: 35px;
+  font-family: cursive;
 }
 .becauseCLetter {
+  color: darkslategray;
+  font-size: 80px;
+  font-weight: 400;
 }
+
 .becauseALetter {
+  font-size: 80px;
+  font-family: 'Times New Roman', Times, serif;
+  color: crimson;
 }
 .becauseULetter {
+  text-decoration: line-through;
+  text-decoration-color: aquamarine;
 }
 .becauseSLetter {
+  font-size: 85px;
+  color: rebeccapurple;
 }
 .becauseETwoLetter {
+  font-size: 68px;
 }
 
 /* THEY word */
 
 .theyTLetter {
+  text-decoration: none;
+  font-size: 60px;
+  color: aliceblue;
+  font-family: fantasy;
 }
 .theyHLetter {
   color: darkgoldenrod;
 }
 .theyELetter {
+  font-size: 67px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
 }
 .theyYLetter {
+  color: brown;
+
 }
 
 /* WANTED word */
 
 .wantedWLetter {
+font-family: cursive;
 }
 .wantedALetter {
+text-transform: capitalize;
+font-weight: bold;
+font-size: 80px;
+color: forestgreen;
 }
 .wantedNLetter {
+  color: chartreuse;
+
 }
 .wantedTLetter {
+  font-family: 'Courier New', Courier, monospace;
+  color: blue;
+  font-size: 41px;
+
 }
 .wantedELetter {
+font-size: 60px;
 }
 .wantedDLetter {
+text-decoration: double underline;
+text-decoration-color: aquamarine;
 }
 
 /* TO word */
 
 .toTLetter {
+  font-size: 85px;
+  color: aquamarine;
+
 }
 .toOLetter {
+  font-family: 'Times New Roman', Times, serif;
 }
 
 /* IMPROVE word */
 
 .improveILetter {
+  color: chartreuse;
 }
+
 .improveMLetter {
+  font-size: 90px;
+  color: black;
 }
 .improvePLetter {
+  color: green;
 }
-.improveRLetter {
+.improveRLetter {text-decoration: dotted line-through;
+  font-size: 70px;
+  color: coral;
+
 }
 .improveOLetter {
+  color: black;
 }
 .improveVLetter {
+  color: coral;
+  text-transform: uppercase;
 }
 .improveELetter {
+  font-family: cursive;
+  font-size: 80px;
 }
 
 /* THEIR word */
 
 .theirTLetter {
+  font-size: 40px;
 }
 .theirHLetter {
+  color: olivedrab;
 }
 .theirELetter {
+  font-size: 69px;
 }
 .theirILetter {
+  color: darkmagenta;
 }
 .theirRLetter {
+  font-size: 80px;
+  font-weight: 700;
 }
 
 /* ROOT word */
 
 .rootRLetter {
+  text-transform: capitalize;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
 .rootOLetter {
+  font-size: 70px;
 }
 .rootOTwoLetter {
+  font-size: 55px;
+  color: darkred;
 }
+
 .rootTLetter {
+  text-decoration: overline wavy;
+  text-decoration-color: blue;
+  color: black;
 }
 
 /* SKILLS word */
 
 .skillsSLetter {
+  font-size: 66px;
+  text-decoration: double line-through;
 }
 .skillsKLetter {
+  font-weight: bold;
+
 }
 .skillsILetter {
   color: blueviolet;
 }
 .skillsLLetter {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 80px;
 }
 .skillsLTwoLetter {
   color: crimson;
