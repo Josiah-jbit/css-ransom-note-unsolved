@@ -143,6 +143,9 @@ body {
 }
 
 .frontendOLetter {
+  font-size: 55px;
+  text-decoration: underline;
+  text-decoration-color: blueviolet;
 }
 
 .frontendNLetter {
@@ -153,6 +156,8 @@ body {
 }
 
 .frontendTLetter {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 80px;
 }
 
 .frontendELetter {
@@ -162,21 +167,34 @@ body {
 }
 
 .frontendNTwoLetter {
+  color: maroon;
+  font-weight: 700;
 }
 
 .frontendDLetter {
+  font-size: 80px;
 }
 
 /* DEVELOPER word */
 
 .developerDLetter {
+  text-decoration: line-through dotted;
+  text-decoration-color: rgb(134, 21, 21);
+  font-size: 87px;
+  color: black;
 }
 .developerELetter {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: green;
 }
 .developerVLetter {
+  font-size: 67px;
+  font-weight: bolder;
 }
 .developerETwoLetter {
+  font-family: 'Courier New', Courier, monospace;
 }
+
 .developerLLetter {
 }
 .developerOLetter {
@@ -192,6 +210,8 @@ body {
 /* TAKE word */
 
 .takeTLetter {
+  font-size: 80px;
+  text-transform: uppercase;
 }
 .takeALetter {
   font-size: 20px;
@@ -202,6 +222,7 @@ body {
   font-size: 80px;
 }
 .takeELetter {
+  color: rgb(18, 77, 93);
 }
 
 /* UP word */
@@ -352,6 +373,8 @@ body {
 /* SYMBOLS */
 
 .hyphen {
+  font-size: 80px;
+
 }
 .exclamation-mark {
   color: darkslateblue;
